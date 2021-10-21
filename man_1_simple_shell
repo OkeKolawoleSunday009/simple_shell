@@ -1,0 +1,17 @@
+./" Manpage for simple_shell_man page                              
+.TH man1 "21 October 2021" "1.0" "simple_shell man page"           
+.SH simple_shell                                                   
+your_fonction - do....                                             
+.SH SYNOPSIS                                                       
+your_fonction [optionnal argument] [optionnal argument]            
+.SH DESCRIPTION                                                    
+your_fonction is a reference to our shell project .....            
+.SH OPTIONS                                                        
+your_fonction does not take any options                            
+.SH BUGS                                                           
+No known bugs.                                                     
+.SH AUTHOR                                                         
+Oke Kolawole and Daniel Omosefunmi(https://github.com/OkeKolawoleSu
+nday009/simple_shell)                                              
+.SH REPORTING BUGS                                                 
+OkeKolawoleSunday009/simple_shell
